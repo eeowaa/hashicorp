@@ -1,0 +1,16 @@
+[submodule "consul"]
+	path = consul
+	url = git@github.com:hashicorp/consul.git
+	branch = master
+[submodule "terraform"]
+	path = terraform
+	url = git@github.com:hashicorp/terraform.git
+	branch = master
+[submodule "vault"]
+	path = vault
+	url = git@github.com:hashicorp/vault.git
+	branch = master
+[submodule "packer"]
+	path = packer
+	url = git@github.com:hashicorp/packer.git
+	branch = master
